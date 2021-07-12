@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Skip to Main Content_logoImage</name>
+   <tag></tag>
+   <elementGuidId>b253ba5f-2de9-49e4-a814-da30bcfabd90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.logoImage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logoImage</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aura-rendered-by</name>
+      <type>Main</type>
+      <value>311:0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;null comm-page-login-home&quot;]/div[@class=&quot;themeLayoutStarterWrapper isHeroUnderHeader-false isHeaderPinned-false siteforceThemeLayoutStarter&quot;]/div[@class=&quot;header&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;themeHeader forceCommunityThemeHeaderBase forceCommunityThemeHeaderCompact&quot;]/div[@class=&quot;themeHeaderInner centerAlignLogo-false showNavMenuOnLeft-true searchStyle-collapsed&quot;]/div[@class=&quot;themeLogo&quot;]/a[@class=&quot;forceCommunityThemeLogo&quot;]/div[@class=&quot;logoImage&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+   </webElementXpaths>
+</WebElementEntity>

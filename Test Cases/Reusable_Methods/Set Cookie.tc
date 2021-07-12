@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Set Cookie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6fc6b11-3c80-4633-9f8e-f95fad8eae2d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a321af53-2c1e-4cc1-bb97-74839d29a7e9</id>
+      <masked>false</masked>
+      <name>Page</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Base</defaultValue>
+      <description></description>
+      <id>a4fe0476-7c7c-4910-8504-aaa2c3f084ae</id>
+      <masked>false</masked>
+      <name>Base</name>
+   </variable>
+</TestCaseEntity>

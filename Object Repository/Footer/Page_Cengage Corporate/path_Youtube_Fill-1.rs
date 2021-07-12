@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Youtube_Fill-1</name>
+   <tag></tag>
+   <elementGuidId>6055ad6f-98e7-4fb8-8b40-8c4581fb9473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Fill-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M55.9813027,983.046486 L55.9813027,976.7182 L61.57807,979.882771 L55.9813027,983.046486 Z M68.4554238,974.805057 C68.2085849,973.897343 67.4785717,973.182486 66.5516126,972.939914 C64.8710069,972.499343 58.1354541,972.499343 58.1354541,972.499343 C58.1354541,972.499343 51.3999014,972.499343 49.7192956,972.939914 C48.7923365,973.182486 48.0623234,973.897343 47.8146091,974.805057 C47.3646969,976.450771 47.3646969,979.882771 47.3646969,979.882771 C47.3646969,979.882771 47.3646969,983.313914 47.8146091,984.958771 C48.0623234,985.867343 48.7923365,986.5822 49.7192956,986.823914 C51.3999014,987.265343 58.1354541,987.265343 58.1354541,987.265343 C58.1354541,987.265343 64.8710069,987.265343 66.5516126,986.823914 C67.4785717,986.5822 68.2085849,985.867343 68.4554238,984.958771 C68.9062113,983.313914 68.9062113,979.882771 68.9062113,979.882771 C68.9062113,979.882771 68.9062113,976.450771 68.4554238,974.805057 L68.4554238,974.805057 Z M69.7106262,964.5142 C71.7763708,964.5142 73.4534753,966.156486 73.4534753,968.179343 L73.4534753,990.849057 C73.4534753,992.871914 71.7763708,994.5142 69.7106262,994.5142 L46.560282,994.5142 C44.4945374,994.5142 42.8174329,992.871914 42.8174329,990.849057 L42.8174329,968.179343 C42.8174329,966.156486 44.4945374,964.5142 46.560282,964.5142 L69.7106262,964.5142 Z</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Fill-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Fill-1&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

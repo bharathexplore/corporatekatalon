@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GTM_Validator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>111f3372-d4c8-401b-9399-2e06c8721a76</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5701795-e4a1-48b6-bbfc-3e5b74964678</id>
+      <masked>false</masked>
+      <name>Page</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Base</defaultValue>
+      <description></description>
+      <id>61a35805-b7d1-4073-930f-f7e4004d14e9</id>
+      <masked>false</masked>
+      <name>Base</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is to test all the pages to loading 
+1 Global Header
+2.Site Navigation
+3 Footer
+4Full Page screenshot</description>
+   <name>ALL_Pages_FullScreenshots</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06cde6b4-7557-4edc-9ab1-402317bb9600</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48da01ad-788a-460f-95e2-e2f19cd3f7bc</id>
+      <masked>false</masked>
+      <name>Page</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Base</defaultValue>
+      <description></description>
+      <id>ccd34207-6c14-44f1-b188-dd2b605ffda6</id>
+      <masked>false</masked>
+      <name>Base</name>
+   </variable>
+</TestCaseEntity>

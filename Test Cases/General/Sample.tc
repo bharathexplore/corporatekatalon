@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>demo</description>
+   <name>Sample</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21ec1d64-0375-405f-81c2-26d5d1c233ed</testCaseGuid>
+   <variable>
+      <defaultValue>'https://int-corporate.cengage.com/'</defaultValue>
+      <description></description>
+      <id>898f5dc0-6f18-4898-beb9-8cd748444367</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>
